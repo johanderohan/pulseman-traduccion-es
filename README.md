@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/mega-drive/pulseman)**.
+
 Traducción al **español de España** de *Pulseman* (Mega Drive, 1994),
 el juego de acción de Game Freak publicado por SEGA.
 
